@@ -6,7 +6,7 @@
 
 ### Option 1: Download the `rarreg.key` file
 
-1. You can download the `rarreg.key` file directly from the link here: [Download rarreg.key](https://github.com/nguyenn-04/Knowledge_Vault/tree/main/keys/rarrge.key)
+1. You can download the `rarreg.key` file directly from the link here: [Download rarreg.key](https://github.com/nguyenn-04/Knowledge_Vault/blob/main/keys/rarreg.key)
 
 2. Navigate to the WinRAR installation directory (usually `C:\Program Files\WinRAR`)
 3. Copy and paste the `rarreg.key` file into the WinRAR directory
